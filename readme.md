@@ -8,8 +8,8 @@ Welcome to the exciting world of **PlayerVPN**! Our mission is to establish a po
 
 # Our team!❤️
 **1: 1056516 (Dylan Erspamer)**
-**2: FlixifyTV (OWNER!)**[
-JOIN THE TEAM]([url](https://docs.google.com/forms/d/e/1FAIpQLSdyml5bwdhzsgJrlgF2RJm88dCGMi2NHvh_kKApEQInRgVg0A/viewform)) Or contact me through my Outlook!
+**2: FlixifyTV (OWNER!)**
+JOIN THE TEAM at https://docs.google.com/forms/d/e/1FAIpQLSdyml5bwdhzsgJrlgF2RJm88dCGMi2NHvh_kKApEQInRgVg0A/viewform Or **contact me through my Outlook!** *I mainly accept the Outlook messages!**
 
 ---
 
