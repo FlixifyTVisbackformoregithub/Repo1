@@ -31,6 +31,13 @@ Collaboration is the backbone of innovation, and we wholeheartedly invite you to
 
 We believe that collaboration fosters creativity, and we are excited to welcome contributors from diverse backgrounds. Your unique perspective and skills can play a crucial role in making PlayerVPN a success. Join us in making a difference in how users interact with the digital world—let’s create solutions that break down barriers together!
 
+---
+
+## Make it look good!❤️ Build with love!
+Be **HELPFUL** when you are editing and creating NEW code! Don't be cruel by adding inapropriate content! Always have **block systems** for **harmful websites**, **viruses**, or just **websites that contain inapropriate content in general❤️**. Add a fun layout! And make this a **GREAT** everyday proxy! Make it contain a layout that looks like Google! **ALWAYS MAKE PLAYERVPN FUN, ACCESSIBLE, AND SAFE FOR ALL USERS!**
+
+---
+
 Thank you for considering being part of the **PlayerVPN** community! Together, we can build a powerful tool that champions online freedom and privacy for everyone.
 
 ---
