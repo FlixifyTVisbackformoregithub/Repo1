@@ -38,6 +38,11 @@ Be **HELPFUL** when you are editing and creating NEW code! Don't be cruel by add
 
 ---
 
-Thank you for considering being part of the **PlayerVPN** community! Together, we can build a powerful tool that champions online freedom and privacy for everyone.
+## BE KIND!❤️
+Always be kind and respectful, **if we already have an index.html user who edits the index.html file, then dont edit it!** **If you can write in a different code language, you may edit THAT!**
+
+---
+
+Thank you for considering being part of the **PlayerVPN** community! Together, we can build a **powerful** tool that **champions online freedom and privacy for everyone.**
 
 ---
