@@ -6,6 +6,13 @@ Welcome to the exciting world of **PlayerVPN**! Our mission is to establish a po
 
 ---
 
+# Our team!❤️
+**1: 1056516 (Dylan Erspamer)**
+**2: FlixifyTV (OWNER!)**[
+JOIN THE TEAM]([url](https://docs.google.com/forms/d/e/1FAIpQLSdyml5bwdhzsgJrlgF2RJm88dCGMi2NHvh_kKApEQInRgVg0A/viewform)) Or contact me through my Outlook!
+
+---
+
 ## 💻 How You Can Help
 
 We are on the lookout for talented individuals who possess the skills and creativity to contribute to this transformative project. Whether you are a seasoned developer or just starting out, your input is invaluable! You can choose to use **any coding language** that you feel most comfortable with. The flexibility of language allows for diverse approaches and solutions, expanding our capabilities as a team.
