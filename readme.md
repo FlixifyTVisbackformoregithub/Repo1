@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PlayerVPN Collaboration</title>
-    <style>
-        body
-    </style>
-</head>
-<body>
+
     <h1>Welcome to PlayerVPN (PVPN)</h1>
 
     <h2>🌟 Join Our Team! We Need Collaborators! 🌟</h2>
