@@ -5,19 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PlayerVPN Collaboration</title>
     <style>
-        body {
-            background-color: black;
-            color: white;
-            font-family: Arial, sans-serif;
-            padding: 20px;
-        }
-        h1, h2, h3 {
-            color: #FFCC00;
-        }
-        a {
-            color: #FFCC00;
-            text-decoration: none;
-        }
+        body
     </style>
 </head>
 <body>
